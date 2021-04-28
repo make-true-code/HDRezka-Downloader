@@ -1,0 +1,15 @@
+{
+   "manifest_version": 2,
+   "name": "HDRezka Downloader",
+   "version": "1.0",
+   "description": "Downloader Movie from HDRezka!",
+   "icons": {
+       "128": "icon.png"
+   },
+   "content_scripts": [
+       {
+           "matches": [ "https://rezka.ag/*" ],
+           "js": [ "jquery-3.6.0.min.js", "app.js" ]
+       }
+   ]
+}
