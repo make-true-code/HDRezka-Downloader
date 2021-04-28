@@ -14,6 +14,7 @@ HDRezka-Downloader расширение для браузера Google Chrome.
 3) Включить режим Разаработчкиа
 4) Загрузить распакованое расширение
 
+Это все, внизу возле каждого плеера на сайте будут ссылки на загрузку. 
 
 __________________________
 
@@ -31,3 +32,4 @@ Installation:
 3) Enable Development Mode
 4) Load the unpacked extension
 
+That's all, at the bottom next to each player on the site there will be download links.
