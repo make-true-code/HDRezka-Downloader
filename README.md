@@ -14,9 +14,7 @@ HDRezka-Downloader расширение для браузера Google Chrome.
 3) Включить режим Разаработчкиа
 4) Загрузить распакованое расширение
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hhJ7Qgp" data-context="false" ><a href="//imgur.com/a/hhJ7Qgp"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hhJ7Qgp" data-context="false" ><a href="//imgur.com/a/hhJ7Qgp"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 __________________________
 
 HDRezka-Downloader extension for Google Chrome browser.
@@ -33,6 +31,3 @@ Installation:
 3) Enable Development Mode
 4) Load the unpacked extension
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hhJ7Qgp" data-context="false" ><a href="//imgur.com/a/hhJ7Qgp"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hhJ7Qgp" data-context="false" ><a href="//imgur.com/a/hhJ7Qgp"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
