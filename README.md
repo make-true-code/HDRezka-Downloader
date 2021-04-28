@@ -27,7 +27,7 @@ Or download movies for viewing on the road, without access to the Internet.
 Installation:
 
 1) Download files to one directory
-2) In Google Chrome, go to chrome: // extensions /
+2) In Google Chrome, go to chrome://extensions/
 3) Enable Development Mode
 4) Load the unpacked extension
 
